@@ -1,0 +1,9 @@
+[
+	{
+		"id": "1",
+		"category": "1,2,5",
+		"title": "Title of topic",
+		"content": "content", 
+		"filter": "0"
+	}
+]
