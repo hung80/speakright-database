@@ -1,9 +1,23 @@
 [
 	{
 		"id": "1",
-		"category": "1,2,5",
-		"title": "Title of topic",
-		"content": "content", 
+		"category": "1,2,3",
+		"title": "CAN’T REMEMBER THE NAME",
+		"content": "I had a chance encounter with a pastor who told me about a wonderful event held at his church. “We had a singing group the other day that performed without instruments,” he said. “A cappella?” I asked. He shrugged. “I don’t remember the name of the group.”", 
+		"filter": "0"
+	},
+	{
+		"id": "2",
+		"category": "1,2,3",
+		"title": "BACK TO REALITY",
+		"content": "Tanned, relaxed, and unshaven, I landed at the Denver airport after returning from my bucolic Caribbean vacation. As the customs agent handed my passport back to me, she cheerily welcomed me home by declaring, “Back to reality for you!”", 
+		"filter": "0"
+	},
+	{
+		"id": "3",
+		"category": "1,2,3",
+		"title": "BIRTHDAYS TO GROW",
+		"content": "I asked the kids in my nursery school class what they needed in order to grow up nice and strong. One little girl answered, “Birthdays!”", 
 		"filter": "0"
 	}
 ]
