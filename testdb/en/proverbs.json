@@ -12,6 +12,26 @@
 	"title": "Actions speak louder than words.",
 	"content": "What you do is more important than what you say. Don’t just tell me you’re going to change. Do it! Actions speak louder than words.", 
 	"filter": "0"
-}
-
+},
+{
+		"id": "3",
+		"category": "1,2,3",
+		"title": "A journey of a thousand miles begins with a single step",
+		"content": "You must begin something if you hope to finish it; something that takes a long time to finish begins with one step. If you want to lose weight, you need to stop eating junk, and you need to start exercising. Today. Not tomorrow. A journey of a thousand miles begins with a single step.", 
+		"filter": "0"
+	},
+	{
+		"id": "4",
+		"category": "1,2,3",
+		"title": "A picture is worth a thousand words",
+		"content": "I wasn’t sure that he loved her, but then I saw them hugging at the airport. A picture is worth a thousand words.", 
+		"filter": "0"
+	},
+	{
+		"id": "5",
+		"category": "1,2,3",
+		"title": "A watched pot never boils",
+		"content": "If something takes time to do, it doesn’t help to constantly check on it. You just have to give it time. I know you think he’s going to be a great guitar player one day, but stop criticizing him so much. He just started taking lessons two weeks ago! A watched pot never boils.", 
+		"filter": "0"
+	}
 ]
