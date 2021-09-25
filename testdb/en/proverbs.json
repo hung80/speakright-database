@@ -2,22 +2,106 @@
 	{
 		"id": "1",
 		"category": "1,2,3",
-		"title": "CAN’T REMEMBER THE NAME",
-		"content": "I had a chance encounter with a pastor who told me about a wonderful event held at his church.", 
+		"title": "Absence makes the heart grow fonder",
+		"content": "Being away from someone or something for a period of time makes you appreciate that person or thing more when you see them or it again. I used to hate going to my aunt’s house, but now I kind of miss it. Absence makes the heart grow fonder.", 
 		"filter": "0"
 	},
 	{
 		"id": "2",
 		"category": "1,2,3",
-		"title": "BACK TO REALITY",
-		"content": "Tanned, relaxed, and unshaven, I landed at the Denver airport after returning from my bucolic Caribbean vacation. As the customs agent handed my passport back to me", 
+		"title": "Actions speak louder than words.",
+		"content": "What you do is more important than what you say. Don’t just tell me you’re going to change. Do it! Actions speak louder than words.", 
 		"filter": "0"
 	},
 	{
 		"id": "3",
 		"category": "1,2,3",
-		"title": "BIRTHDAYS TO GROW",
-		"content": "I asked the kids in my nursery school class what they needed in order to grow up nice and strong. One little girl answered", 
+		"title": "A journey of a thousand miles begins with a single step",
+		"content": "You must begin something if you hope to finish it; something that takes a long time to finish begins with one step. If you want to lose weight, you need to stop eating junk, and you need to start exercising. Today. Not tomorrow. A journey of a thousand miles begins with a single step.", 
+		"filter": "0"
+	},
+	{
+		"id": "4",
+		"category": "1,2,3",
+		"title": "A picture is worth a thousand words",
+		"content": "I wasn’t sure that he loved her, but then I saw them hugging at the airport. A picture is worth a thousand words.", 
+		"filter": "0"
+	},
+	{
+		"id": "5",
+		"category": "1,2,3",
+		"title": "A watched pot never boils",
+		"content": "If something takes time to do, it doesn’t help to constantly check on it. You just have to give it time. I know you think he’s going to be a great guitar player one day, but stop criticizing him so much. He just started taking lessons two weeks ago! A watched pot never boils.", 
+		"filter": "0"
+	},
+	{
+		"id": "6",
+		"category": "1,2,3",
+		"title": "Beggars can’t be choosers",
+		"content": "If you’re in a bad situation and someone offers to help you, you have to take whatever they give you and shouldn’t ask for more.", 
+		"filter": "0"
+	},
+	{
+		"id": "7",
+		"category": "1,2,3",
+		"title": "All good things must come to an end",
+		"content": "Everything ends; good times don’t last forever. I wish this vacation would go on forever. It’s too bad that all good things must come to an end.", 
+		"filter": "0"
+	},
+	{
+		"id": "8",
+		"category": "1,2,3",
+		"title": "Beauty is in the eye of the beholder",
+		"content": "What is “beautiful” is different for each person. I think their house is ugly, but they seem to like it. Beauty is in the eye of the beholder.", 
+		"filter": "0"
+	},
+	{
+		"id": "9",
+		"category": "1,2,3",
+		"title": "Better late than never",
+		"content": "It’s better to finish something late than to never do it at all. Hello, Mr. Jameson. Here is my final essay. Better late than never, right?", 
+		"filter": "0"
+	},
+	{
+		"id": "10",
+		"category": "1,2,3",
+		"title": "Birds of a feather flock together",
+		"content": "People who are similar spend time together. I think we all started hanging out because we all liked anime. Birds of a feather flock together.", 
+		"filter": "0"
+	},
+	{
+		"id": "11",
+		"category": "1,2,3",
+		"title": "Don’t bite the hand that feeds you",
+		"content": "Don’t make someone angry or hurt someone who is helping you or paying for you. You had a fight with your boss? Are you stupid? Don’t bite the hand that feeds you.", 
+		"filter": "0"
+	},
+	{
+		"id": "12",
+		"category": "1,2,3",
+		"title": "	Don’t count your chickens before they hatch.",
+		"content": "Don’t expect a positive result before you actually see it. This idea is going to make me millions of dollars! Whoa. Let’s slow down. Don’t count your chickens before they hatch.", 
+		"filter": "0"
+	},
+	{
+		"id": "13",
+		"category": "1,2,3",
+		"title": "Cleanliness is next to godliness",
+		"content": "It’s good to be clean. God is clean, and you should be too. Go take a shower before your date. You know what they say; cleanliness is next to godliness.", 
+		"filter": "0"
+	},
+	{
+		"id": "14",
+		"category": "1,2,3",
+		"title": "	Don’t judge a book by its cover",
+		"content": "Don’t judge someone or something by appearance alone. Racism is still a problem today, and it will continue to be that way until we learn not to judge a book by its cover.", 
+		"filter": "0"
+	},
+	{
+		"id": "15",
+		"category": "1,2,3",
+		"title": "Don’t put all of your eggs in one basket",
+		"content": "Don’t put all of your hopes and resources into one goal or dream. I know you really want to be an actor, but don’t you think you’re being financially irresponsible? Don’t put all of your eggs in one basket", 
 		"filter": "0"
 	}
 ]

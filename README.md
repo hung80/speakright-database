@@ -27,9 +27,9 @@ filter.json
 meta.json 
 {"file": ["category", "filter", "licensetype", "proverbs.json"]}
 ------
-@github/hung80/speakright-database/testdb/en/meta.json
-@github/hung80/speakright-database/testdb/en/category.json
-@github/hung80/speakright-database/testdb/en/filter.json
-@github/hung80/speakright-database/testdb/en/licensetype.json
-@github/hung80/speakright-database/testdb/en/proverbs.json
+https://api.gitrows.com/@github/hung80/speakright-database/testdb/en/meta.json
+https://api.gitrows.com/@github/hung80/speakright-database/testdb/en/category.json
+https://api.gitrows.com/@github/hung80/speakright-database/testdb/en/filter.json
+https://api.gitrows.com/@github/hung80/speakright-database/testdb/en/licensetype.json
+https://api.gitrows.com/@github/hung80/speakright-database/testdb/en/proverbs.json
 
