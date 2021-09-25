@@ -68,40 +68,5 @@
 		"title": "Birds of a feather flock together",
 		"content": "People who are similar spend time together. I think we all started hanging out because we all liked anime. Birds of a feather flock together.", 
 		"filter": "0"
-	},
-	{
-		"id": "11",
-		"category": "1,2,3",
-		"title": "Don’t bite the hand that feeds you",
-		"content": "Don’t make someone angry or hurt someone who is helping you or paying for you. You had a fight with your boss? Are you stupid? Don’t bite the hand that feeds you.", 
-		"filter": "0"
-	},
-	{
-		"id": "12",
-		"category": "1,2,3",
-		"title": "	Don’t count your chickens before they hatch.",
-		"content": "Don’t expect a positive result before you actually see it. This idea is going to make me millions of dollars! Whoa. Let’s slow down. Don’t count your chickens before they hatch.", 
-		"filter": "0"
-	},
-	{
-		"id": "13",
-		"category": "1,2,3",
-		"title": "Cleanliness is next to godliness",
-		"content": "It’s good to be clean. God is clean, and you should be too. Go take a shower before your date. You know what they say; cleanliness is next to godliness.", 
-		"filter": "0"
-	},
-	{
-		"id": "14",
-		"category": "1,2,3",
-		"title": "	Don’t judge a book by its cover",
-		"content": "Don’t judge someone or something by appearance alone. Racism is still a problem today, and it will continue to be that way until we learn not to judge a book by its cover.", 
-		"filter": "0"
-	},
-	{
-		"id": "15",
-		"category": "1,2,3",
-		"title": "Don’t put all of your eggs in one basket",
-		"content": "Don’t put all of your hopes and resources into one goal or dream. I know you really want to be an actor, but don’t you think you’re being financially irresponsible? Don’t put all of your eggs in one basket", 
-		"filter": "0"
 	}
 ]
