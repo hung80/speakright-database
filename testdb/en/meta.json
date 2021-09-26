@@ -1,1 +1,7 @@
-{"file": ["category", "filter", "licensetype", "proverbs.json"]}
+{"files": {
+	"category": 1,
+	"filter": 1, 
+	"licensetype": 1, 
+	"topic-proverbs.json": 1
+	}
+}
