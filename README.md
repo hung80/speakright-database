@@ -23,9 +23,7 @@ filter.json
 [{"id":"0", "name":"none"}, {"id":"1","name":"admin"}]
 
 meta.json 
-{"files": {
-	"category": 1,
-	"filter": 1, 
+{"files": {"filter": 1, 
 	"licensetype": 1, 
 	"topic-proverbs.json": 1
 	}

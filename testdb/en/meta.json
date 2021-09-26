@@ -1,7 +1,8 @@
 {"files": {
-	"category": 1,
-	"filter": 1, 
-	"licensetype": 1, 
-	"topic-proverbs.json": 1
+	"filter.json": 1, 
+	"licensetype.json": 1, 
+	"topic-proverbs.json": 1,
+	"topic-main.json": 1,
+	"topic-mediumStoryA.json": 1
 	}
 }

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "proverbsA",
+    "parents": "",
+    "title": "50 common proverbs",
+    "content": "",
+    "filter": 1,
+    "leaf": 0,
+    "autosplit": 0
+  },
+  {
+    "id": "mediumStoryA",
+    "parents": "",
+    "title": "Medium stories",
+    "content": "",
+    "filter": 1,
+    "leaf": 0,
+    "autosplit": 0
+  }
+]
