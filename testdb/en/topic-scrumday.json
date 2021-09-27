@@ -1,0 +1,155 @@
+[
+  {
+    "id": "scrumday-mytopic-slide-2",
+    "parents": "scrumday-mytopic",
+    "title": "Slide 2",
+    "content": "Hello everyone, welcome to the session. We are all here passionate about Agile. And today we are going to discuss about a very interesting topic. How diversity in financial constraints may impact the way we run Agile.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-3",
+    "parents": "scrumday-mytopic",
+    "title": "Introduction",
+    "content": "So before we start, let me introduce quickly about myself. My name is Hưng. I have been in IT for 20 years in different business domains and global clients. I've been a practitioner and a certified scrum master. At the moment, I am the delivery manager, and a trainer for agile and project management at ELCA. Personally, I also like to be known as a developer and a lifelong learner. So. What is the topic? Imagine the situation when our customer with a fixed budget asks us to commit to delivering a full complex scope. Then we plunge into Agile with all the changes and variations, knowing there is no extra money available. How do we cope with this situation?",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-4",
+    "parents": "scrumday-mytopic",
+    "title": "Agenda",
+    "content": "Let's look at the backlog for this session. The first item is 'introduction', which has been done. So one item less. Then, because we are going to spend more than 40 minutes together, we should know why it matters? Then, we will visit the 2 scenarios. One with the time and material contract, and one with the fixed price contract.Then, it will be the take away and open discussion with Q&A.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-5",
+    "parents": "scrumday-mytopic",
+    "title": "How is success measured?",
+    "content": "So, why does it matter? In the survey of state of agile in 2020, one of the asked questions is \"How is success measured in agile projects\", the top 4 rated criteria are: business value, customer satisfaction, velocity and budget control. So, it is clear that \"Budget control\" is an important factor.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-6",
+    "parents": "scrumday-mytopic",
+    "title": "Slide 6",
+    "content": "But, in the survey of state of agile in 2021, in the very recent report of July 2021, one of the asked questions is: What is the impact of agile implementation. Cost reduction has been rated at the bottom. Well, in this sense, it is hard to say that Cost reduction or budget control is a big success of Agile..yet",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-7",
+    "parents": "scrumday-mytopic",
+    "title": "Scope Cost Time",
+    "content": "Now, is that a fair question to agile? We all know that agile is best at delivering prioritized business value. And prioritizing business value will imply a scale in the scope, which in turn makes the cost scale. Now, if scope is scaled, but the cost is fixed. What does that mean? Simply, change must be under control. So the challenge is,  if we try to control the change, how can we employ the best of agile values into prioritizing business values?",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-8",
+    "parents": "scrumday-mytopic",
+    "title": "Agenda again",
+    "content": "So let's have a closer look at the scenario of the time and material projects.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-9",
+    "parents": "scrumday-mytopic",
+    "title": "Time & Material - Variable scope",
+    "content": "In this type of projects or contracts, there is no agreed - upon scope. Both the customer product owner and the supplier development team work as ONE team. They put their best effort for the best values. The reality is that, it is a higher financial risk for the customer than for the supplier. The second challenge is that the customer and the supplier team have to build trust on each other. The very common question is: Is the development team running at the good enough velocity, are they lazy, or are they productive enough? The question that often appears in the mind of the customer is also ' Do I spend my best money for the best values?' And the scarier situation for the customer is when he has no money left but he does not have the result he expects.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-10",
+    "parents": "scrumday-mytopic",
+    "title": "Slide 10",
+    "content": "In this type of project, the crucial tool to use is the Burn-down and burn-up chart. The customer has to explicit about their MVP - most viable product. On a regular basis, the burn-up report will tell about the progress of the work. The 2 key elements of these charts are: - Transparency: At any time, all stakeholders should know about the daily plan and velocity of the team.- Predictability: The release plan has to be predictable. The customer product owner is advised and able to forecast the release date, and based on that he can advise the priority for the backlog.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-11",
+    "parents": "scrumday-mytopic",
+    "title": "Slide 11",
+    "content": "In the T&M, when the cost ceiling comes in, the situation is more complicated. Let's say, the customer has a money constraint. For whatever reason, he cannot spend more than 1 million dollars. So, the burn charts are very helpful to advise about the time and the scope, but if it doesn't have information about the cost, trouble will come. In the chart, we can see the situation when budget is over before we reach to an MVP scope. This is actually the point of the expectation management. If we fail to be transparent enough about the cost, we will have a very upset customer at this point. ",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-12",
+    "parents": "scrumday-mytopic",
+    "title": "Inflation of done",
+    "content": "This is a very common pitfall of definition of done, especially in scrum. The timebox concept is good to push the producitivy, but also with the side effect of the 'mostly done' increments. So, to gain a good 'productive burndown chart', the team has tendency to mark it done for 'mostly done' stuffs. In Zombie Scrum, this is also called zombie increments. The features move, but they will never live, and they will fall in the end. The famous situation is that, just before being out of money or deadline is close, we find out that many many things that are claimed to be done, are not really done, and all fall over into the team at a pressured time. The second sydrome is called 'Scrumfall', when definition of done is not strictly followed, it is often that a task is done in this sprint, but is tested in the next sprint. The burndown chart is totally misleading in this case. In the other direction, definition of done is also too ambitious. I have been the scrum master for a project with a strict Definition of done. All done stories were really shippable and we had a new live version of the product at every 2-week sprint. The downside is that there were sprints that the team's motivation was really down as they mostly could not get anything done.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-13",
+    "parents": "scrumday-mytopic",
+    "title": "Slide 13",
+    "content": "Now, it is time to look at the fixed price scenario.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-14",
+    "parents": "scrumday-mytopic",
+    "title": "",
+    "content": "this is interesting. At a certain level, people say that agile and fixed price projects are from different worlds. They cannot match each other.  Can we really fix the scope but allow changes? Is doing fixed price in an agile way possible? Actually, the answer is YES. But they adapt the method a bit and call the methodology as 'Agile for fixed price' Well, the answer very much depends  on how we define scope. For fixed scope, we should focus on 'how many' instead of 'What'",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-15",
+    "parents": "scrumday-mytopic",
+    "title": "change management art",
+    "content": "Then, with a fixed 'how many', in this example, let's say, 200 story points, the change management is really an art. There will be added scope, there will be removed scope, as long as the total is controlled.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-16",
+    "parents": "scrumday-mytopic",
+    "title": "Key challenges",
+    "content": "Story point: Whenever there are added scope or removed scope, the total story point has to be justified. So the definition of story point has to be more transparent. And if we can exchange one story point to another one, their definition has to be more specific, so that they become more producible and less arguable. Definition of done: As mentioned before, in the fixed price contract, definition of done has to be really critical and rigid. So that, the scope is really controlled correctly. Change management: Exchanging removed features for added features is easy to say than do. The change management in this case will become an art. Having said that, study shows that around 80% of features in softwares are rarely used or never used. By smartly prioritizing and changing the features, we can bring the best values for the fixed cost.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-17",
+    "parents": "scrumday-mytopic",
+    "title": "",
+    "content": "Now we are coming closer to the end. Let's see what we can takeaway for today. In a T&M project, we don't lose money...but we lose more important thing. We may lose the customer. A T&M project may end in a 'sucessful way' like when the customer says 'Ok team, we are happy, but we just do not continue the project from next month' And then he never comes back - Regardless of whatever contract we have, time and material or fixed price, the contracts do not build any trust. People do. So, to win satisfaction, people have to build trust, people have to do expectation management - In the whole seminar, we talk about cost control, sometimes, we mention about expectation management. Actually, they have a very close connection. They all are built on transparency and predictability - The last but not least, in agile world, no change is a no-go. So if we have to fix the scope or the cost, focus on 'how many' we can do, rather than, exactly 'what' we can do. We should always embrace changes in the agile world. Because change is  how the world works.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "scrumday-mytopic-slide-18",
+    "parents": "scrumday-mytopic",
+    "title": "Q&A",
+    "content": "So, that's all for the session. I hope you enjoy it, and please feel free to discuss for the Q&A.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  }
+]
