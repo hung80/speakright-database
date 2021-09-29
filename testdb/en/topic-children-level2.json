@@ -1,0 +1,85 @@
+[
+  {
+    "id": "childrenlevel2",
+    "parents": "",
+    "title": "Children Level 2",
+    "content": "",
+    "filter": 1,
+    "leaf": 0,
+    "autosplit": 0
+  }, 
+  {
+    "id": "childrenlevel2-BigFish",
+    "parents": "childrenlevel2",
+    "title": "Big Fish",
+    "content": "Big fish has fins. Big fish can swim. Big fish lives in the water. Big fish has a lot of fun in the sea.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "childrenlevel2-mycat",
+    "parents": "childrenlevel2",
+    "title": "My cat",
+    "content": "I have a cat. My cat is orange. It has a long tail. Her eyes are brown. It likes milk. It likes to run and jump. I love to play with my cat. It makes my happy",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "childrenlevel2-goodfriends",
+    "parents": "childrenlevel2",
+    "title": "Good friends",
+    "content": "There is a mouse and a lion. The mouse is Tom and the lion is Sim. They are good friends. One day, they went to the forest. They got some food to eat. They like to eat and eat. They went rested well after.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  
+  {
+    "id": "childrenlevel2-parrot",
+    "parents": "childrenlevel2",
+    "title": "Pet Parrot",
+    "content": "I have a pet. My pet is a parrot. His name is Peter. Peter is a talking parrot. Peter loves to sing. He sings his favorite song. He sings very well. He likes dancing too. Peter is so smart and talented. He is so cute and funny too.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "childrenlevel2-mycat",
+    "parents": "childrenlevel2",
+    "title": "My first day at school",
+    "content": "My name is Gia An. Today is my first day in school. I am feeling very scared now. I am going to school by bus. I met Lam Chi in the bus. She is very sweet. She is my friend now.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "childrenlevel2-goodfriends",
+    "parents": "childrenlevel2",
+    "title": "Face Mask",
+    "content": "This is my face mask. I always have it with me. My parents tell me to wear my mask whenever I go out. They also wear mask to protect themselves from getting sick. My mask comes in different colors and designs. But I like this blue simple mask of mine.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "childrenlevel2-BigFish",
+    "parents": "childrenlevel2",
+    "title": "Black and Brown Puppies",
+    "content": "Black and Brown are puppies. They are also brothers. Black is a small black puppy with fluffy fur. Brown is a big brown puppy with shorter fur. They both like to eat bones and meat. They both like running and playing.",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  },
+  {
+    "id": "childrenlevel2-BigFish",
+    "parents": "childrenlevel2",
+    "title": "My School",
+    "content": "This is our school. It is a ten minute walk from my house. I love my teachers. They are very kind. My classroom is clean and colorfull. I like it very much. I see my friends at school, too",
+    "filter": 1,
+    "leaf": 1,
+    "autosplit": 0
+  }
+  
+]
