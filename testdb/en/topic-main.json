@@ -6,7 +6,8 @@
     "content": "",
     "filter": 1,
     "leaf": 0,
-    "autosplit": 0
+    "autosplit": 0,
+	"sort": 10
   },
   {
     "id": "mediumStoryA",
@@ -15,7 +16,8 @@
     "content": "",
     "filter": 1,
     "leaf": 0,
-    "autosplit": 0
+    "autosplit": 0,
+	"sort": 11
   },
   {
     "id": "scrumday-mytopic",
@@ -24,6 +26,7 @@
     "content": "",
     "filter": 1,
     "leaf": 0,
-    "autosplit": 0
+    "autosplit": 0,
+	"sort": 12
   }
 ]

@@ -6,40 +6,41 @@
     "content": "",
     "filter": 1,
     "leaf": 0,
-    "autosplit": 0
+    "autosplit": 0,
+	"sort": 1
   },
   {
-    "id": "childrenlevel1-mycat",
+    "id": "childrenlevel1-hen",
     "parents": "childrenlevel1",
     "title": "A hen",
-    "content": "A hen. Ted is a hen. The hen is red. Ted is a red hen.",
+    "content": "Ted is a hen. The hen is red. Ted is a red hen.",
     "filter": 1,
     "leaf": 1,
     "autosplit": 0
   },
   {
-    "id": "childrenlevel1-mycat",
+    "id": "childrenlevel1-ball",
     "parents": "childrenlevel1",
-    "title": "The ball",
-    "content": "This is a ball. The ball is blue. Look at the blue ball. The blue ball is big.",
+    "title": "The blue ball",
+    "content": "This is a ball. The ball is blue. Look at the blue ball. My brother will kick it.",
     "filter": 1,
     "leaf": 1,
     "autosplit": 0
   },
   {
-    "id": "childrenlevel1-mycat",
+    "id": "childrenlevel1-mybook",
     "parents": "childrenlevel1",
-    "title": "The ball",
-    "content": "This is a book. These are also books. That is a book. Those are all books.",
+    "title": "This is a book",
+    "content": "This is a book. These are also books. That is a book. Those are all books. I read those books.",
     "filter": 1,
     "leaf": 1,
     "autosplit": 0
   },
   {
-    "id": "childrenlevel1-BigFish",
+    "id": "childrenlevel1-banana",
     "parents": "childrenlevel1",
     "title": "Banana",
-    "content": "I am a banana. I am yellow. I am soft. I am sweet and delicious",
+    "content": "I am a banana. I am yellow. I am soft. I am sweet and delicious. I like banana.",
     "filter": 1,
     "leaf": 1,
     "autosplit": 0

@@ -2,10 +2,10 @@
 	"filter.json": 1, 
 	"licensetype.json": 1, 
 	"topic-proverbs.json": 1,
-	"topic-main.json": 4,
-	"topic-children-level1.json":1,
-	"topic-children-level2.json":1,
-	"topic-children-long.json":1,
+	"topic-main.json": 5,
+	"topic-children-level1.json":3,
+	"topic-children-level2.json":3,
+	"topic-children-long.json":3,
 	"topic-mediumStoryA.json": 2,
 	"topic-scrumday.json": 1	
 	}
