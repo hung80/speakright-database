@@ -4,9 +4,10 @@
 	"topic-proverbs.json": 1,
 	"topic-main.json": 5,
 	"topic-children-level1.json":3,
-	"topic-children-level2.json":3,
+	"topic-children-level2.json":4,
 	"topic-children-long.json":3,
 	"topic-mediumStoryA.json": 2,
-	"topic-scrumday.json": 1	
+	"topic-scrumday.json": 1,
+	"topic-songs.json":1
 	}
 }
