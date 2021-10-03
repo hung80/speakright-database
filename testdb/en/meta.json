@@ -1,13 +1,10 @@
 {"files": {
-	"filter.json": 1, 
-	"licensetype.json": 1, 
-	"topic-proverbs.json": 1,
-	"topic-main.json": 5,
-	"topic-children-level1.json":3,
-	"topic-children-level2.json":4,
-	"topic-children-long.json":3,
-	"topic-mediumStoryA.json": 2,
-	"topic-scrumday.json": 1,
-	"topic-songs.json":4
+	"filter.json": 1,
+	"licensetype.json": 1,
+	"topic_proverbs.json": 2,
+	"topic_main.json": 2,
+	"topic_children_level1.json":2,
+	"topic_children_level2.json":2,
+	"topic_songs.json":4
 	}
 }

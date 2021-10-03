@@ -1,15 +1,5 @@
 [
   {
-    "id": "childrenlevel1",
-    "parents": "",
-    "title": "Children Level 1",
-    "content": "",
-    "filter": 1,
-    "leaf": 0,
-    "autosplit": 0,
-	"sort": 1
-  },
-  {
     "id": "childrenlevel1-hen",
     "parents": "childrenlevel1",
     "title": "A hen",
@@ -44,5 +34,5 @@
     "filter": 1,
     "leaf": 1,
     "autosplit": 0
-  }  
+  }
 ]

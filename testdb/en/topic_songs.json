@@ -7,7 +7,7 @@
     "filter": 1,
     "leaf": 0,
     "autosplit": 3,
-	"sort": 13
+	  "sort": 5
   },
   {
     "id": "songs-loveparadise",
@@ -17,7 +17,7 @@
     "filter": 1,
     "leaf": 0,
     "autosplit": 3,
-	"sort": 14
+	  "sort": 6
   },
   {
     "id": "songs-faded",
@@ -27,7 +27,7 @@
     "filter": 1,
     "leaf": 0,
     "autosplit": 4,
-	"sort": 15
+	"sort": 7
   },
   {
     "id": "songs-alone",
@@ -37,7 +37,7 @@
     "filter": 1,
     "leaf": 0,
     "autosplit": 4,
-	"sort": 16
+	"sort": 8
   },
   {
     "id": "songs-onmyway",
@@ -47,17 +47,26 @@
     "filter": 1,
     "leaf": 0,
     "autosplit": -1,
-	"sort": 17
+	"sort": 9
   },
   {
-    "id": "songs-youremysunshine",
+    "id": "songs-5litleducks",
     "parents": "",
-    "title": "You are my sunshine",
-    "content": "The other night, dear. As I lay sleeping. I dreamed I held you, in my arms. When I awoke, dear. I was mistaken. So I hung my head and I cried. You are my sunshine. My only sunshine. You make me happy. When skies are gray. You'll never know, dear. How much I love you. Please don't take my sunshine away. I'll always love you. And make you happy. And nothing else could come between. But if you leave me to allow another. You'll have shattered all of my dreams. You are my sunshine. My only sunshine. You make me happy. When skies are gray. You'll never know, dear. How much I love you. Please don't take my sunshine away.",
+    "title": "Five little ducks",
+    "content": "Five little ducks went out one day.Over the hill and far away.Mother duck said, \"Quack, quack, quack, quack\".But only four little ducks came back.One, two, three, four.Four little ducks went out one day.Over the hill and far away.Mother duck said, \"Quack, quack, quack, quack\".But only three little ducks came back.One, two, three.Three little ducks went out one day.Over the hill and far away.Mother duck said, \"Quack, quack, quack, quack\".But only two little ducks came back.One, two.Two little ducks went out one day.Over the hill and far away.Mother duck said, \"Quack, quack, quack, quack\".But only one little duck came back.One.One little duck went out one day.Over the hill and far away.Mother duck said, \"Quack, quack, quack, quack\".But none of the five little ducks came back.Sad mother duck went out one day.Over the hill and far away.Mother duck said, \"Quack, quack, quack, quack\".And all of five little ducks came back.Five little ducks went out to play.Over the hill and far away.Mother duck said, \"Quack, quack, quack, quack\".And all of the five little ducks came back!",
     "filter": 1,
     "leaf": 0,
-    "autosplit": 4,
-	"sort": 18
+    "autosplit": 3,
+    "sort": 10
+  },
+  {
+    "id": "songs-rowtheboat",
+    "parents": "",
+    "title": "Row the boat",
+    "content": "Row, row, row your boat.Gently down the stream.Merrily merrily, merrily, merrily.Life is but a dream.Row, row, row your boat.Gently down the stream.Merrily merrily, merrily, merrily.Life is but a dream.Row, row, row your boat.Gently down the stream.Merrily merrily, merrily, merrily.Life is but a dream.Row, row, row your boat.Gently down the stream.Merrily merrily, merrily, merrily.Life is but a dream.",
+    "filter": 1,
+    "leaf": 0,
+    "autosplit": 3,
+    "sort": 11
   }
-	
 ]

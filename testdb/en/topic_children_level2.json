@@ -1,15 +1,5 @@
 [
   {
-    "id": "childrenlevel2",
-    "parents": "",
-    "title": "Children Level 2",
-    "content": "",
-    "filter": 1,
-    "leaf": 0,
-    "autosplit": 0,
-	"sort": 2
-  }, 
-  {
     "id": "childrenlevel2-BigFish",
     "parents": "childrenlevel2",
     "title": "Big Fish",
@@ -36,7 +26,7 @@
     "leaf": 1,
     "autosplit": 0
   },
-  
+
   {
     "id": "childrenlevel2-parrot",
     "parents": "childrenlevel2",
@@ -82,5 +72,5 @@
     "leaf": 1,
     "autosplit": 0
   }
-  
+
 ]
