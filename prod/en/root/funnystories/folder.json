@@ -1,0 +1,10 @@
+{
+	"topicList": {
+		"funnyf1": {"title": "The funny story 1", "folder": 1, "leaf": 1},
+		"funnyf2": {"title": "The funny story 2", "folder": 1, "leaf": 1},
+		"funnyf3": {"title": "The funny story 3", "folder": 1}
+	},
+	"absPath": "root/funnystories",
+	"name": "Funny stories"
+}
+

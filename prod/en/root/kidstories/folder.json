@@ -1,0 +1,12 @@
+{
+	"topicList": {
+		"giraffe": {"title": "The Giraffe"},
+		"icanpaint": {"title": "I can paint"},
+		"geckoonwall": {"title": "Gecko on the wall"},
+		"cats": {"title": "Cats"},
+		"bravebora": {"title": "Brave Bora"}
+	},
+	"absPath": "root/kidstories",
+	"name": "Kid stories"
+}
+

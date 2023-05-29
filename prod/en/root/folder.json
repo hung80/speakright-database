@@ -1,0 +1,9 @@
+	{
+		"topicList": {		
+		"kidstories":{"title": "Remote Kid stories", "content": "", "imageId": "", "version": 1, "eager": 1, "filter": 0, "leaf": 1, "autosplit": 0, "sort": 1, "folder": 1}	,
+		"funnystories":{"title": "Remote Funny stories", "content": "", "imageId": "", "version": 1, "eager": 1, "filter": 0, "leaf": 0, "autosplit": 0, "sort": 1, "folder": 1}	
+		},
+		
+		"absPath": "root",
+		"name": ""
+}
